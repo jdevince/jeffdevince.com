@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+.homepage {
+  margin-top: 80px; }
+  .homepage h1 {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif; }
+    @media screen and (max-width: 700px) {
+      .homepage h1 {
+        font-size: 30px;
+        margin-left: 10px; } }
+    @media screen and (min-width: 700px) {
+      .homepage h1 {
+        font-size: 80px;
+        margin-left: 100px; }
+        .homepage h1.last {
+          margin-top: 150px; } }
+    .homepage h1.last .fa-envelope {
+      color: #D54937; }
+
+/*# sourceMappingURL=app.css.map */
