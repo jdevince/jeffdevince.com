@@ -31,15 +31,15 @@
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Scientific Publications <span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/jns5.12043/abstract">Tissue Engineering</a></li>
+                            	<li><a href="http://worldcomp-proceedings.com/proc/p2016/ICA3162.pdf">Brain-Computer Interface</a></li>
+                                <li><a href="http://onlinelibrary.wiley.com/doi/10.1111/jns5.12043/abstract">Tissue Engineering</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Social Media <span class="caret"></span></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Accounts <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="https://www.linkedin.com/in/jeffrey-devince-056978a1"><i class="fa fa-linkedin-square"></i>LinkedIn</a></li>
                                 <li><a href="https://github.com/jdevince"><i class="fa fa-github-square"></i>GitHub</a></li>
-                                <li><a href="https://www.facebook.com/jeff.devince"><i class="fa fa-facebook-square"></i>Facebook</a></li>
                             </ul>
                         </li>
                     </ul>
