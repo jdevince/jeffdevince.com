@@ -28,18 +28,18 @@
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="/resume">Resume</a></li>
+						<li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="https://myannualbudget.com"><i class="fa fa-usd"></i>Personal Finance Budget Calculator</a></li>
+                                <li><a href="https://github.com/jdevince"><i class="fa fa-github-square"></i>GitHub</a></li>
+                            </ul>
+                        </li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Scientific Publications <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                             	<li><a href="http://worldcomp-proceedings.com/proc/p2016/ICA3162.pdf">Brain-Computer Interface</a></li>
                                 <li><a href="http://onlinelibrary.wiley.com/doi/10.1111/jns5.12043/abstract">Tissue Engineering</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Accounts <span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="https://www.linkedin.com/in/jeffrey-devince-056978a1"><i class="fa fa-linkedin-square"></i>LinkedIn</a></li>
-                                <li><a href="https://github.com/jdevince"><i class="fa fa-github-square"></i>GitHub</a></li>
                             </ul>
                         </li>
                     </ul>
