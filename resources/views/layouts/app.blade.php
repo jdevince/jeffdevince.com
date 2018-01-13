@@ -31,7 +31,7 @@
 						<li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="https://myannualbudget.com"><i class="fa fa-usd"></i> Myannualbudget.com</a></li>
+                                <li><a href="https://myannualbudget.com"><i class="fa fa-usd"></i> MyAnnualBudget.com</a></li>
                                 <li><a href="https://github.com/jdevince"><i class="fa fa-github-square"></i> GitHub</a></li>
                             </ul>
                         </li>
