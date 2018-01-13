@@ -17,7 +17,7 @@
         <br><br>
 	    <h1 class="last">Let's Connect: 
 	    	<a target="_blank" href="mailto:jeffrey.devince@gmail.com?Subject=Hi!"><i class="fa fa-envelope"></i></a>
-	    	<a target="_blank" href="https://www.linkedin.com/in/jeffrey-devince-056978a1"><i class="fa fa-linkedin-square text-white"></i></a>
+	    	<a target="_blank" href="https://www.linkedin.com/in/jeffrey-devince"><i class="fa fa-linkedin-square text-white"></i></a>
 	    </h1>   
     </div>
 
