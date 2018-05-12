@@ -12,7 +12,7 @@
 	
 	</script>
     <div class="homepage">
-        <h1>Web Developer.</h1>
+        <h1>Software Developer.</h1>
         <h1>Tech Enthusiast.</h1>
         <br><br>
 	    <h1 class="last">Let's Connect: 
